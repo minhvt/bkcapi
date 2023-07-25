@@ -1,0 +1,36 @@
+{
+    "phongban" : [
+        {
+            "id" : 1,
+            "ten" : "Phòng Hành Chính"
+        },
+        {
+            "id" : 2,
+            "ten" : "Phòng Kỹ Thuật"
+        }
+    ],
+
+    "nhanvien" : [
+        {
+            "id" : 1,
+            "idpb" : 1,
+            "hovaten" : "Lê Thu Trang",
+            "diachi" : "Thanh Hóa",
+            "namsinh" : 2004
+        },
+        {
+            "id" : 2,
+            "idpb" : 1,
+            "hovaten" : "Bùi Lê Như Mai",
+            "diachi" : "Bình Dương",
+            "namsinh" : 2006
+        },
+        {
+            "id" : 3,
+            "idpb" : 2,
+            "hovaten" : "Phan Hoàng Tùng",
+            "diachi" : "Ninh Bình",
+            "namsinh" : 1999
+        }
+    ]
+}
